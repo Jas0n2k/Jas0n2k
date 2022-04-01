@@ -1,13 +1,27 @@
 <h2>Hi there, I'm Jason, born in 2k!</h2>
 
-<p align="center">![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jas0n2k&show_icons=true)</p>
+## ℹ Who Am I?
 
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0n2k)</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0n2k"></img>
+- Major in Computer Science in [ECUPL](https://www.ecupl.edu.cn). 
+- Won prizes in serveral digital forensic competitions.
+- Learning to be a full-stack developer.
 
-<p>A college student. Learning to be a full-stack developer.</p>
+<b>Language Proficiency: </b>
+ - Mandarin Chinese (native)
+ - English (fluent)
+ - French (novice)
+ - Japanese (novice)
 
-<p>Language Proficiency: <em>Mandarin Chinese (native), English (fluent), French (novice), Japanese (novice).</p>
+
+
+## 💙 Preferences
+<p>Die-heard <em>CounterStrike</em> Lover!</p>
+<img src="https://media.giphy.com/media/1wmP98G5dtN4cxG93x/giphy.gif" width="200"></img>
 
 <p>I like Ice Bear from <em><a href="https://en.wikipedia.org/wiki/We_Bare_Bears">We Bare Bears</a></em>.</p>
+<img align="center" src="https://media.giphy.com/media/fYqzzDxirohL3ztWco/giphy.gif" width="200"></img>
 
-<p align="center"><img src="https://media.giphy.com/media/fYqzzDxirohL3ztWco/giphy.gif" width="300"></img></p>
+## 👨‍💻 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jas0n2k&show_icons=true"></img></p>
