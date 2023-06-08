@@ -16,7 +16,7 @@
 
 
 ## 💙 Preferences
-<p>Die-heard <em>CounterStrike</em> Lover!</p>
+<p>Die-hard <em>CounterStrike</em> Lover!</p>
 <img src="https://media.giphy.com/media/1wmP98G5dtN4cxG93x/giphy.gif" width="200"></img>
 
 <p>I like Ice Bear from <em><a href="https://en.wikipedia.org/wiki/We_Bare_Bears">We Bare Bears</a></em>.</p>
