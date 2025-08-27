@@ -3,13 +3,16 @@
 ## ℹ Who Am I?
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0n2k"></img>
-- Major in Computer Science at [ECUPL](https://www.ecupl.edu.cn). 
+- Undergraduate of Computer Science at [ECUPL](https://www.ecupl.edu.cn).
+- MSc of Computer System and Cybersecurity at [Chalmers](https://chalmers.se).
 - Won prizes in serveral digital forensic competitions.
 - Learning to be a full-stack developer.
 
 <b>Language Proficiency: </b>
- - Mandarin Chinese (native)
+ - Chinese (Mandarin and Cantonese) (native)
  - English (fluent)
+ - Swedish (novice)
+ - Portugese (Brazilian) (novice)
  - French (novice)
  - Japanese (novice)
 
