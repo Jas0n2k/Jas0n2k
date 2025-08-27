@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0n2k"></img>
 - Undergraduate of Computer Science at [ECUPL](https://www.ecupl.edu.cn).
-- MSc of Computer System and Cybersecurity at [Chalmers](https://chalmers.se).
+- MSc of Computer Systems and Cybersecurity at [Chalmers](https://chalmers.se).
 - Won prizes in serveral digital forensic competitions.
 - Learning to be a full-stack developer.
 
