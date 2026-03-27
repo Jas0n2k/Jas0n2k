@@ -6,7 +6,8 @@
 - MSc of Computer Systems and Cybersecurity at [Chalmers](https://chalmers.se).
 - Won prizes in serveral digital forensic competitions.
 - Learning to be a full-stack developer and **Cyber Security Engineer**.
-<b>Language Proficiency: </b>
+
+**Language Proficiency:**
  - Chinese (Mandarin and Cantonese) (native)
  - English (fluent)
  - Swedish (novice)
